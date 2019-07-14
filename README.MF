@@ -1,0 +1,5 @@
+创建镜像:
+    docker build -t atinbo-eureka .
+创建容器:
+    docker run -p 8761:8761 --name eureka -d atinbo-eureka
+
