@@ -18,7 +18,7 @@
         <java.version>1.8</java.version>
         <spring-cloud.version>Greenwich.SR2</spring-cloud.version>
         <docker.image.prefix>breggor</docker.image.prefix>
-        <docker.registry>registry.cn-hangzhou.aliyuncs.com/atinbo/atinbo-repo</docker.registry>
+        <docker.registry>registry.cn-hangzhou.aliyuncs.com/breggor/atinbo-repo</docker.registry>
     </properties>
 
     <dependencies>
